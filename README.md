@@ -43,3 +43,7 @@ Creating navigation menus and grid structures
 
 Improving attention to design details
 
+🙌 Credits
+Project guided by Apna College – Delta Batch
+
+UI inspired by Spotify
