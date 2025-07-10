@@ -47,3 +47,6 @@ Improving attention to design details
 Project guided by Apna College – Delta Batch
 
 UI inspired by Spotify
+
+📌 License
+This project is open-source and free to use for learning purposes.
