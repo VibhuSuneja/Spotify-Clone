@@ -25,3 +25,4 @@ This is a **Spotify homepage clone** created using **HTML and CSS**, built as pa
 ---
 **Clone the repository**
    ```bash 
+   https://github.com/VibhuSuneja/Spotify-Clone.git
