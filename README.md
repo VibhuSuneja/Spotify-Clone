@@ -25,5 +25,12 @@ This is a **Spotify homepage clone** created using **HTML and CSS**, built as pa
 ---
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   https://github.com/VibhuSuneja/Spotify-Clone.git
+2.Navigate to the project folder
+   ```bash
+      cd spotify-clone
+```
+3. Open index.html in your browser
+
+That’s it! You’re ready to explore the UI.
 
