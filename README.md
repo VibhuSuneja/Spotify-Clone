@@ -34,3 +34,12 @@ This is a **Spotify homepage clone** created using **HTML and CSS**, built as pa
 
 That’s it! You’re ready to explore the UI.
 
+📚 Learning Outcomes
+Writing clean and semantic HTML
+
+Using Flexbox for responsive layout
+
+Creating navigation menus and grid structures
+
+Improving attention to design details
+
